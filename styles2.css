@@ -1,0 +1,41 @@
+.navigation {
+    width: 20%;
+    float: left;
+}
+
+.navigation ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.navigation li {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.content {
+    width: 80%;
+    float: left;
+}
+
+.introduction{
+    font-size:20px;
+}
+
+.image {
+    width: 100%;
+}
+
+.caption {
+    font-size: 12px;
+    margin-top: 4px;
+    text-align: center;
+    color: gray;
+}
+
+.image-column {
+    width: 20%;
+}
+th {
+    text-align: left;
+}
